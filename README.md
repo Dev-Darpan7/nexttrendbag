@@ -1,4 +1,4 @@
-﻿# 🛍️ NextTrendBag
+﻿#  NextTrendBag
 
 NextTrendBag is a responsive e-commerce website developed using **PHP, MySQL, JavaScript, HTML, and CSS**. The project provides a complete online shopping experience, allowing users to browse products, manage their cart and wishlist, place orders, and manage their accounts through a clean and user-friendly interface.
 
@@ -181,14 +181,5 @@ Contributions are welcome.
 
 ---
 
-## 📄 License
-
-This project is developed for educational purposes.
-
----
-
-## 👨‍💻 Author
-
-**Darpan**
 
 GitHub: https://github.com/Dev-Darpan7
